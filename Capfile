@@ -1,3 +1,4 @@
+require 'rvm/capistrano'
 load 'deploy'
 set :rvm_ruby_string, 'ruby-1.9.3-p286@personal' # Defaults to 'default
 # Uncomment if you are using Rails' asset pipeline
