@@ -5,6 +5,7 @@
     <ignored path="juandediosherrero.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.rvmrc" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365329715174" ignored="false" />
+    <file path="/Dummy.txt" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365329890004" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +22,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".rvmrc" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".rvmrc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.rvmrc">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,6 +51,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.rvmrc" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -412,6 +423,13 @@
     <entry file="file://$PROJECT_DIR$/.rvmrc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
