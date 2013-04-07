@@ -39,7 +39,7 @@ end
 
 # Deploy with Capistrano
 gem 'capistrano'
-gem 'rvm', '1.2.9'
+gem 'rvm', '1.11.3.5'
 
 # To use debugger
 # gem 'debugger'

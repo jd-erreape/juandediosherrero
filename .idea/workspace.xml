@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="557226ab-fedb-427b-9abf-2d5202828655" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Capfile" afterPath="$PROJECT_DIR$/Capfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="juandediosherrero.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.rvmrc" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365329715174" ignored="false" />
-    <file path="/Dummy.txt" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365364801765" ignored="false" />
+    <file path="/Dummy.txt" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365365329896" ignored="false" />
     <file path="/deploy.rb" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365360311388" ignored="false" />
     <file path="/Capfile" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365360106973" ignored="false" />
     <file path="/database.yml" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365361456031" ignored="false" />
+    <file path="/Gemfile" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365365550103" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="18" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
+            <state line="41" column="20" selection-start="843" selection-end="843" vertical-scroll-proportion="0.6825726">
               <folding />
             </state>
           </provider>
@@ -73,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Capfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Capfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="63" selection-end="63" vertical-scroll-proportion="0.07053942">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,8 +105,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/deploy.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Capfile" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -474,7 +475,11 @@
       <created>1365364809556</created>
       <updated>1365364809556</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added rvm capistrano">
+      <created>1365365331794</created>
+      <updated>1365365331794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -539,7 +544,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added rvm gem to gemfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="added rvm capistrano" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -556,6 +561,7 @@
     <MESSAGE value="Added thin and execjs to Gemfile" />
     <MESSAGE value="Added Production Database Config" />
     <MESSAGE value="Added rvm gem to gemfile" />
+    <MESSAGE value="added rvm capistrano" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -610,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="18" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="4" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
@@ -626,7 +625,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Capfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="63" selection-end="63" vertical-scroll-proportion="0.07053942">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="20" selection-start="843" selection-end="843" vertical-scroll-proportion="0.6825726">
           <folding />
         </state>
       </provider>
