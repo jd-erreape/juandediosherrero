@@ -1,0 +1,19 @@
+/* ----------------------------------------------------------------------------------------- 
+____________________________________________________________________
+
+Author - Mustafa Quilon / http://mustafaquilon.com
+Visual design copyright 2010. All Rights Reserved.
+
+"Screen" Style Sheet for "Resume/CV Perfecto"
+Themeforest url - http://themeforest.net/user/mustafaquilon?ref=mustafaquilon
+Demo URL - http://mustafaquilon.com/files/tf/resume-cv-perfecto/
+Support - howdy@mustafaquilon.com
+____________________________________________________________________
+
+----------------------------------------------------------------------------------------- */
+
+/* =These are fixes for IE 6
+----------------------------------------------------------------------------------------- */
+
+#sidebar { position: absolute; top: auto; }
+.floatRight { margin-top: -20px; }

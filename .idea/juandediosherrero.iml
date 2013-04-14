@@ -57,6 +57,8 @@
     <orderEntry type="library" scope="PROVIDED" name="railties (v3.2.13, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.0.4, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ref (v1.0.4, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rvm (v1.11.3.5, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.7, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.6, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.2.2, RVM: ruby-1.9.3-p0 [personal]) [gem]" level="application" />
