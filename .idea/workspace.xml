@@ -12,11 +12,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="juandediosherrero.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.rvmrc" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365329715174" ignored="false" />
-    <file path="/Dummy.txt" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365960896289" ignored="false" />
+    <file path="/Dummy.txt" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365961090495" ignored="false" />
     <file path="/deploy.rb" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365360311388" ignored="false" />
     <file path="/Capfile" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365360106973" ignored="false" />
     <file path="/database.yml" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365361456031" ignored="false" />
@@ -29,6 +30,7 @@
     <file path="/curriculum.html.erb" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365960088816" ignored="false" />
     <file path="/application_curriculum.css" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365951628664" ignored="false" />
     <file path="/main.css.erb" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365960608631" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="557226ab-fedb-427b-9abf-2d5202828655" time="1365961097510" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="6" selection-start="10" selection-end="10" vertical-scroll-proportion="0.03526971">
+            <state line="1" column="5" selection-start="9" selection-end="9" vertical-scroll-proportion="0.03526971">
               <folding />
             </state>
           </provider>
@@ -494,7 +496,11 @@
       <created>1365960898297</created>
       <updated>1365960898297</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Removed all .idea files from git">
+      <created>1365961092102</created>
+      <updated>1365961092102</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -563,7 +569,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed all .idea files from git" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -586,6 +592,7 @@
     <MESSAGE value="Added default controller for test" />
     <MESSAGE value="Started Curriculum Vitae integration" />
     <MESSAGE value="Modified gitignore" />
+    <MESSAGE value="Removed all .idea files from git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -686,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="6" selection-start="10" selection-end="10" vertical-scroll-proportion="0.03526971">
+        <state line="1" column="5" selection-start="9" selection-end="9" vertical-scroll-proportion="0.03526971">
           <folding />
         </state>
       </provider>
