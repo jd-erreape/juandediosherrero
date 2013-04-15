@@ -61,12 +61,14 @@
     <li><a href="#education">Educación</a></li>
     <li><a href="#personal_skills">Capacidades personales</a></li>
     <li><a href="#work">Experiencia laboral</a></li>
-    <li><a href="#contact">Contacto</a></li>
+    <!--<li><a href="#contact">Contacto</a></li>-->
     <!-- end / #navMain -->
   </ul>
   <ul id="networkLinks">
     <li class="divider">
-      <a href="#"><%= image_tag 'curriculum/layout/pdf.png', :alt => 'Descarga mi CV en pdf', :class => 'tooltip' %></a>
+      <%= link_to 'http://issuu.com/juandediosherrero/docs/cv_no_adress', :target => '_blank' do %>
+          <%= image_tag 'curriculum/layout/pdf.png', :alt => 'Descarga mi CV en pdf', :class => 'tooltip' %>
+      <% end %>
     </li>
     <li>
       <%= link_to 'http://es.linkedin.com/in/juandediosherrero', :class => 'external' do %>
@@ -152,6 +154,17 @@
   </ul>
   </p>
 
+  <h3>Centro Imagina Formación <em class="floatRight">2012</em></h3>
+
+  <h4>Cualificación obtenida</h4>
+
+  <p>Desarrollo de aplicaciones en iOS5</p>
+
+  <h4>Principales materias o capacidades profesionales estudiadas y adquiridas</h4>
+
+  <p>
+    Desarrollo de aplicaciones con Objective-C para el dispositivos con SO iOS
+  </p>
 
   <!-- end #education -->
 </div>
@@ -232,9 +245,36 @@
 <div id="work" class="section">
   <h2>Experiencia laboral</h2>
 
+  <h3>Razorfish Healthware</h3>
+
+  <h4>Principal Developer <em class="floatRight">Desde Enero 2013</em></h4>
+
+  <h5>Funciones y responsabilidades principales</h5>
+
+  <p>
+  <ul class="disc">
+    <li>Desarrollo de aplicaciones principalmente con Ruby on Rails, mediante BDD</li>
+    <li>Soporte al gestor de proyectos en cuanto a estimaciones de tareas</li>
+    <li>Tareas de análisis de requisitos, diseño, implementación y tests de aplicaciones.</li>
+    <li>Propuesta de nuevas tecnologías con las que afrontar distintos proyectos.</li>
+    <li>Asistencia a programadores juniors.
+    </li>
+    <li>Gestión de equipos de desarrollo.</li>
+    <li>Análisis y resolución de problemas de desarrollo dentro de los equipos.</li>
+  </ul>
+  </p>
+
+  <h5>Nombre y dirección de la empresa o empleador</h5>
+
+  <p>Razorfish Healthware http://www.razorfishhealthware.com</p>
+
+  <h5>Tipo de empresa o sector</h5>
+
+  <p>Agencia de comunicación digital especializada en el ámbito de la salud.</p>
+
   <h3>Publicis Healthcare Communications Group - NUATT</h3>
 
-  <h4>Analista / programador web <em class="floatRight">Marzo 2011 - Presente</em></h4>
+  <h4>Analista / programador web <em class="floatRight">Marzo 2011 - Diciembre 2012</em></h4>
 
   <h5>Funciones y responsabilidades principales</h5>
 
@@ -291,31 +331,31 @@
 
 <!--&lt;!&ndash; Contact Section Begins &ndash;&gt;-->
 <!--<div id="contact" class="section">-->
-  <!--<h2>Contacto</h2>-->
-  <!--<h4>Juan de Dios Herrero Pérez</h4>-->
+<!--<h2>Contacto</h2>-->
+<!--<h4>Juan de Dios Herrero Pérez</h4>-->
 
-  <!--<div id="note"></div>-->
-  <!--<form action="javascript:alert('error!');" class="contact">-->
-    <!--&lt;!&ndash; Change your email id in the config.php file &ndash;&gt;-->
-    <!--<div class="field">-->
-      <!--<label for="name">Nombre</label>-->
-      <!--<input type="text" name="name" id="name" value="" class="text"/>-->
-    <!--</div>-->
-    <!--<div class="field">-->
-      <!--<label for="email">E-Mail</label>-->
-      <!--<input type="text" name="email" id="email" value="" class="text"/>-->
-    <!--</div>-->
-    <!--<div class="field">-->
-      <!--<label for="message">Mensaje</label>-->
-      <!--<textarea class="textbox" name="message" id="message" rows="3" cols="25"></textarea>-->
-    <!--</div>-->
-    <!--<div class="buttons">-->
-      <!--<input type="submit" value="Enviar" class="submit"/>-->
-      <!--<input type="reset" value="Borrar" class="submit reset"/>-->
-    <!--</div>-->
-  <!--</form>-->
+<!--<div id="note"></div>-->
+<!--<form action="javascript:alert('error!');" class="contact">-->
+<!--&lt;!&ndash; Change your email id in the config.php file &ndash;&gt;-->
+<!--<div class="field">-->
+<!--<label for="name">Nombre</label>-->
+<!--<input type="text" name="name" id="name" value="" class="text"/>-->
+<!--</div>-->
+<!--<div class="field">-->
+<!--<label for="email">E-Mail</label>-->
+<!--<input type="text" name="email" id="email" value="" class="text"/>-->
+<!--</div>-->
+<!--<div class="field">-->
+<!--<label for="message">Mensaje</label>-->
+<!--<textarea class="textbox" name="message" id="message" rows="3" cols="25"></textarea>-->
+<!--</div>-->
+<!--<div class="buttons">-->
+<!--<input type="submit" value="Enviar" class="submit"/>-->
+<!--<input type="reset" value="Borrar" class="submit reset"/>-->
+<!--</div>-->
+<!--</form>-->
 
-  <!--&lt;!&ndash; end #contact &ndash;&gt;-->
+<!--&lt;!&ndash; end #contact &ndash;&gt;-->
 <!--</div>-->
 <!-- end #content -->
 </div>
