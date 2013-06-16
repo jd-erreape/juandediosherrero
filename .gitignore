@@ -13,3 +13,4 @@
 /app/assets/.DS_Store
 
 /config/deploy.rb
+/config/database.yml
