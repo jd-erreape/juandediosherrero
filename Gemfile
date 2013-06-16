@@ -38,8 +38,8 @@ end
 # gem 'unicorn'
 
 # Deploy with Capistrano
-gem 'capistrano'
-gem 'rvm', '1.11.3.5'
+gem 'capistrano', '2.8.0'
+gem 'rvm', '1.2.9'
 
 # To use debugger
 # gem 'debugger'
