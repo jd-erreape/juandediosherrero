@@ -11,3 +11,5 @@
 /vendor/ruby
 
 /app/assets/.DS_Store
+
+/config/deploy.rb
